@@ -1,1 +1,1 @@
-list the content of your directory
+user directory
